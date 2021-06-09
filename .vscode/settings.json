@@ -2,6 +2,7 @@
     "files.associations": {
         "*.py": "bat",
         "array": "cpp",
-        "*.tcc": "cpp"
+        "*.tcc": "cpp",
+        "vector": "cpp"
     }
 }
